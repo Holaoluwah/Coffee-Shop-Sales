@@ -21,7 +21,7 @@ Customer satisfaction: This primary dataset used for this analysis is the “COF
 
 
   ## Dashboard Preview
-![Coffee Shop Dashboard](coffe-shop-dashboard.png)
+![Coffee Shop Dashboard](coffee-shop-dashboard.png)
 
 
 ### Analysis Performed
